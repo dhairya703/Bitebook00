@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015717611034",
+    "project_id": "bitebook000",
+    "storage_bucket": "bitebook000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015717611034:android:a9644c82429510695f33a3",
+        "android_client_info": {
+          "package_name": "com.dhairya.bitebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015717611034-mn011752rt9j9dbgvqgrdep51r33avl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvBtiLxKfOv8rvSJ9INUGbE2TEJOR-F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015717611034-mn011752rt9j9dbgvqgrdep51r33avl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
